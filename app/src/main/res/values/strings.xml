@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+    <string name="Detail">detail</string>
+    <string name="mobil_name">nama mobil</string>
 </resources>
